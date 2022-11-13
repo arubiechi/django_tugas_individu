@@ -6,3 +6,4 @@ Program yang dibutuhkan:
 2. Django 1.11.29
 3. mysqlclient 1.4.6
 4. XAMPP terbaru
+5. VSCODE (Opsional)
