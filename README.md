@@ -7,3 +7,7 @@ Program yang dibutuhkan:
 3. mysqlclient 1.4.6
 4. XAMPP terbaru
 5. VSCODE (Opsional)
+
+Jangan lupa tambahkan database di phpmyadmin dengan judul "djangoweb" (tanpa tanda kutip).
+
+Setelah itu manage.py migrate
